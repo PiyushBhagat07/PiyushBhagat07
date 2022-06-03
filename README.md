@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @PiyushBhagat07
+- 👋 Hi, I’m Piyush Bhagat
 - 👀 I’m interested in Code
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me piyushbhagat070@gmail.com
 
 <!---
